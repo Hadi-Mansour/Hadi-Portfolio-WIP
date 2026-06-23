@@ -1,14 +1,14 @@
 # Hi, I'm Hadi Mansour 
 
 Computer Programming Graduate  
-Passionate about software development, problem-solving, and learning new technologies  
+Passionate about UX/UI Design, 3D Modeling, software development, problem-solving, and learning new technologies  
 Based in Ottawa, Canada  
 
 ---
 
 ##  About Me
 
-I’m a motivated and detail-oriented developer with a background in computer programming. I enjoy building practical applications and continuously improving my technical skills.  
+I’m a motivated and detail-oriented developer and designer with a background in computer programming. 
 I have experience working with both front-end and back-end technologies, and I’m always looking for opportunities to grow and contribute to meaningful projects.\
 
 ---
@@ -22,7 +22,7 @@ Java, C#, JavaScript, SQL
 HTML, CSS, JavaScript  
 
 **Tools & Technologies:**  
-Git, Linux, Networking, Database Management  
+Git, Linux, Networking, Database Management, Figma, Blender 
 
 ---
 
@@ -35,6 +35,10 @@ Git, Linux, Networking, Database Management
 
 ### 🔹 Integration Project Analysis and implementation
 **Description:** Constructing a website of pet related goods that allows users to login and register to the website and, view and purchase pet products. 
+---
+
+### 🔹 (WIP) Roblox Game Finder Website
+**Description:** Fully Designed GameFinder which is a discovery platform that helps Roblox players cut through millions of games with natural-language search, smart filters and human-curated collections.
 ---
 
 ## 🤝 Let's Connect
