@@ -37,7 +37,7 @@ Git, Linux, Networking, Database Management, Figma, Blender
 ---
 
 ### 🔹 Roblox Game Finder Website (VoxlWay)
-**Description:** Fully Designed GameFinder which is a discovery platform that helps Roblox players cut through millions of games with natural-language search, smart filters and human-curated collections.
+**Description:** Fully Designed Voxlway which is a discovery platform that helps Roblox players cut through millions of games with natural-language search, smart filters and human-curated collections.
 ---
 
 ## 🤝 Let's Connect
