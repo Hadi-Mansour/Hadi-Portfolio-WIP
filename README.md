@@ -2,7 +2,7 @@
 
 Computer Programming Graduate  
 Passionate about UX/UI Design, 3D Modeling, software development, problem-solving, and learning new technologies  
-Based in Ottawa, Canada  
+Based in Ontario, Canada  
 
 ---
 
