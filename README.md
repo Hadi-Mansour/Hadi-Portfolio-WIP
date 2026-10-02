@@ -36,7 +36,7 @@ Git, Linux, Networking, Database Management, Figma, Blender
 **Description:** Constructing a website of pet related goods that allows users to login and register to the website and, view and purchase pet products. 
 ---
 
-### 🔹 (WIP) Roblox Game Finder Website 
+### 🔹 Roblox Game Finder Website (VoxlWay)
 **Description:** Fully Designed GameFinder which is a discovery platform that helps Roblox players cut through millions of games with natural-language search, smart filters and human-curated collections.
 ---
 
